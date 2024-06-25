@@ -1,2 +1,2 @@
-# Django_chat_App
+# Django_clone_instagram
 chatApp
